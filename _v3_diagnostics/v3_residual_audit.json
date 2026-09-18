@@ -1,0 +1,22 @@
+{
+  "unique_visible_v2_head_count": 632,
+  "v3_transformed_record_count": 632,
+  "unique_head_key_match": true,
+  "missing_heads": [],
+  "extra_heads": [],
+  "unchanged_visible_heads": [],
+  "unchanged_default_knight_head_residuals": [],
+  "changed_pixels_outside_player_boxes_by_atlas": {
+    "Knight.png": 0,
+    "Sprint.png": 0,
+    "Cloak.png": 0,
+    "Shriek.png": 0,
+    "Wings.png": 0,
+    "Webbed.png": 0,
+    "DreamArrival.png": 0,
+    "Dreamnail.png": 0,
+    "Birthplace.png": 0
+  },
+  "pass": true,
+  "runtime_validation": "Not run here: Hollow Knight / CustomKnight is not installed in this workspace."
+}

@@ -1,0 +1,34 @@
+{
+  "base": "D:\\skin\\Default",
+  "output": "D:\\skin\\nailong_v2",
+  "default_file_count": 207,
+  "output_file_count": 207,
+  "modified_files": [
+    "Birthplace.png",
+    "Cloak.png",
+    "DreamArrival.png",
+    "Dreamnail.png",
+    "Knight.png",
+    "Shriek.png",
+    "Sprint.png",
+    "Webbed.png",
+    "Wings.png"
+  ],
+  "unchanged_file_count": 198,
+  "extra_files": [],
+  "metadata_mismatches": [],
+  "transformed_components_by_atlas": {
+    "Knight.png": 518,
+    "Sprint.png": 28,
+    "Cloak.png": 25,
+    "Shriek.png": 2,
+    "Wings.png": 9,
+    "Webbed.png": 27,
+    "DreamArrival.png": 12,
+    "Dreamnail.png": 18,
+    "Birthplace.png": 74
+  },
+  "transformed_component_count": 713,
+  "method": "Default alpha component + compact pale mask + enclosed black eye holes; pose, pivot, nail and effects retained from Default",
+  "runtime_validation": "NOT RUN: Hollow Knight / CustomKnight installation not present on this machine"
+}

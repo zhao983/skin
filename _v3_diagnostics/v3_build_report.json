@@ -1,0 +1,58 @@
+{
+  "base": "D:\\skin\\Default",
+  "output": "D:\\skin\\nailong_v3",
+  "default_file_count": 207,
+  "output_file_count": 207,
+  "modified_files": [
+    "Birthplace.png",
+    "Cloak.png",
+    "DreamArrival.png",
+    "Dreamnail.png",
+    "Knight.png",
+    "Shriek.png",
+    "Sprint.png",
+    "Webbed.png",
+    "Wings.png"
+  ],
+  "unchanged_file_count": 198,
+  "extra_files": [],
+  "metadata_mismatches": [],
+  "transformed_component_count": 632,
+  "transformed_components_by_atlas": {
+    "Birthplace.png": 51,
+    "Cloak.png": 20,
+    "DreamArrival.png": 11,
+    "Dreamnail.png": 18,
+    "Knight.png": 477,
+    "Shriek.png": 2,
+    "Sprint.png": 26,
+    "Webbed.png": 19,
+    "Wings.png": 8
+  },
+  "semantics": {
+    "airborne_tilt": 69,
+    "dash_or_horizontal_air": 402,
+    "down_attack": 8,
+    "front_idle_or_focus": 23,
+    "horizontal_attack": 10,
+    "run": 9,
+    "side_idle": 51,
+    "up_attack": 15,
+    "walk": 44,
+    "webbed": 1
+  },
+  "donors": {
+    "attack_01": 10,
+    "attack_03": 15,
+    "attack_04": 8,
+    "move_00": 24,
+    "move_01": 51,
+    "move_02": 23,
+    "move_03": 21,
+    "move_04": 411,
+    "move_05": 69
+  },
+  "attack_components": 33,
+  "method": "Scan every unique visible v2 lemon-yellow head with a nearby green eye (the gameplay-verified no-flash coverage); use only that head coordinate as an anchor; erase the connected Default Knight body; restore only distant luminous nail/slash pixels; place a full-body Nailoong donor with direction-aware action selection",
+  "runtime_validation": "Pending external Hollow Knight / CustomKnight test; not installed in this workspace"
+}
